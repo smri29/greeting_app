@@ -1,7 +1,4 @@
-// Current SDK version: 3.22.1
 import 'package:flutter/material.dart';
-
-// Container, dialog, bottom-sheet
 
 void main() {
   runApp(GreetingApp());
